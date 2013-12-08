@@ -1,0 +1,11 @@
+{
+  "name": "Irccloud-app",
+  "description": "Irccloud in own window",
+  "version": "0.1",
+  "app": {
+    "background": {
+      "scripts": ["irccloud.js"]
+    }
+  },
+  "permissions": [ "webview" ]
+}
