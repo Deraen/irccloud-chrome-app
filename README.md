@@ -4,7 +4,7 @@ Chrome app so you can have IRCCloud in separate window (like a real program!)
 
 ## NOTE
 
-I'm not using this at the moment as there is a way to create an app from any url in Chrome.
+I'm not using this at the moment as there is a way to create an app from any url in Chrome (Windows and ChromeOS only).
 Here are the steps required to do that for Irccloud:
 
 1. Bookmark Irccloud into your Bookmark bar
